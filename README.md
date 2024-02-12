@@ -50,7 +50,7 @@ This web-app showcases a method to digitize and enhance the process of creating 
 4. Setup UI Server
    - Install dependencies
    ```sh
-   cd ui
+   cd UI
    npm install
    npm run dev
    ```
